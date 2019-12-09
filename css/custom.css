@@ -1,0 +1,22 @@
+.nav-bar{
+    background-color: #6e6ef9 !important;
+    height: 50px;
+}
+
+.title-logo{
+    padding-bottom: 15px;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}   
+
+canvas{
+    display: block;
+    position: absolute;
+    border: 4px solid #000;
+    margin: 0;
+    bottom: 0;
+    right: 0;
+    right: 0;
+    left: 0;
+}
+
