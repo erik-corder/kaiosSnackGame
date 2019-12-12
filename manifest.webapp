@@ -8,8 +8,8 @@
     },
     "launch_path": "/index.html",
       "icons": {
-      "56": "assets/icons/snack.svg",
-      "112": "assets/icons/snack_112.svg "
+      "56": "icons/22285-snake-icon-56.png",
+      "112": "/icons/22285-snake-icon-112.pngg "
     },
     "theme_color": "#a065e6",
     "type": "privileged",
