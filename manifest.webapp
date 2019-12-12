@@ -9,7 +9,7 @@
     "launch_path": "/index.html",
       "icons": {
       "56": "icons/22285-snake-icon-56.png",
-      "112": "/icons/22285-snake-icon-112.pngg "
+      "112": "/icons/22285-snake-icon-112.png "
     },
     "theme_color": "#a065e6",
     "type": "privileged",
